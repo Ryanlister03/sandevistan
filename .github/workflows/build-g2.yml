@@ -1,6 +1,6 @@
 name: Build G2
 
-on:
+"on":
   workflow_dispatch:
 
 jobs:
